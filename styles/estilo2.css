@@ -1,0 +1,42 @@
+/* Estilo para cabeçalho */
+header {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para o corpo da página */
+  .container{
+    background: linear-gradient(to bottom, #1986daca, #0c50a7);
+    margin: 0;
+    padding: 0;
+  }
+
+ /*  body {
+    background: linear-gradient(to bottom, #1986daca, #0c50a7);
+    margin: 0;
+    padding: 0;
+  } */
+  
+  /* Estilo para o elemento html */
+  html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilo para o cartão de contato */
+  .container .card {
+    margin-top: -20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para formulários que precisam de validação */
+  form.needs-validation {
+    padding: 20px;
+  }
+  
+  /* Estilo para todos os formulários */
+  form {
+    margin-top: 0;
+  }
+  
